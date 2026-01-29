@@ -1,0 +1,4 @@
+policy_id,client_name,client_email,renewal_date,premium
+POL-1001,Archer & Co,contact@archerco.com,2025-02-10,1200.00
+POL-1002,Northwind Traders,ops@northwind.com,2025-02-02,850.50
+POL-1003,Red Maple Logistics,admin@redmaple.com,2025-03-01,1450.75
